@@ -1,6 +1,6 @@
 # Hi 👋, I'm Nisha Jaiswal
 
-### MERN Stack Developer | Android Developer
+### MERN Stack Developer | Android Developer | Flutter 
 
 - 🔭 I’m currently working on MERN Projects
 - 🌱 I’m learning Advanced React & Backend
