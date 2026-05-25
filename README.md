@@ -20,11 +20,6 @@
 
 ## 📊 GitHub Stats
 
-![Nisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=NishaJais&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NishaJais&layout=compact&theme=tokyonight)
-
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=NishaJais&theme=tokyonight)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=MERN+Stack+Developer;Android+Developer;Open+Source+Enthusiast)](https://git.io/typing-svg)
