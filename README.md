@@ -18,7 +18,7 @@
 
 ![My Skills](https://skillicons.dev/icons?i=react,nodejs,mongodb,express,javascript,html,css,flutter,dart,java,kotlin,firebase,git,github,vscode)
 
-## 📊 GitHub Stats
+## 📊 GitHub Status
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=NishaJais&theme=tokyonight)
 
